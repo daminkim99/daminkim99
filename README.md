@@ -27,8 +27,9 @@
         <p align="center">
           
   <a href="https://github.com/daminkim99/rateMyMovie" target="_blank">
-    REPO to Github
-  </a>  
+    REPO(Github)
+  </a>
+          <span>| </span>
   <a href="https://poised-deer-leg-warmers.cyclic.app" target="_blank">
     Website
   </a>
@@ -39,19 +40,37 @@
       <h3 align="center">Rock Paper Scissor</h3>
         <br />
       <a target="_blank" href="https://nice-erin-cormorant-sock.cyclic.app">
-            <img src="images/one.png" width="100%"  alt="mainpage"/>
+             <img src="images/rps.png" width="100%" alt="main page"/>
         </a>
         <br />
         <p align="center">
           
   <a href="https://github.com/daminkim99/rock-paper-scissor" target="_blank">
-    REPO to Github
+    REPO(Github)
   </a>
+      <span>| </span>
   <a href="https://nice-erin-cormorant-sock.cyclic.app" target="_blank">
     Website
   </a>
       </p>
-        <p><strong>Javascript | CSS3 | HTML5 | Node.js</strong> - Rock Paper Scissors game against the random AI</p>
+        <p><strong> Javascript | CSS3 | HTML5 | Node.js</strong> - Rock Paper Scissors game against the random AI</p>
+    </td>
+ </tr>
+ <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">luxurybeauty.com</h3>
+        <br />
+      <a target="_blank" href="https://peppy-queijadas-a0ad95.netlify.app">
+             <img src="images/lash.gif" width="100%" alt="main page"/>
+        </a>
+        <br />
+        <p align="center">
+      
+  <a href="https://peppy-queijadas-a0ad95.netlify.app" target="_blank">
+    Website
+  </a>
+      </p>
+        <p><strong>  HTML5 | CSS3  </strong> - Static Website for lash lifting </p>
     </td>
   </tr>
    
