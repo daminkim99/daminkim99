@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Elena (Damin) Kim</h1>
 <h3 align="center">Full Stack Software Developer</h3>
 
+<p align="left"> Creative and detail oriented, I have a deep interest in marketing and health technology! I like to help business owners and build projects that bring value and makes tasks more efficient :) </p>
+
 - 🌱 I’m currently learning **Node.js , MongoDB**
 
 - 📫 How to reach me **elenanana0903@gmail.com**
