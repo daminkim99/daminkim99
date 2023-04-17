@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning **Node.js , MongoDB**
 
 - 📫 How to reach me **elenanana0903@gmail.com**
-- 
 - 👨‍💻 All of my projects are available at [https://chimerical-syrniki-0dfea3.netlify.app](https://chimerical-syrniki-0dfea3.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
