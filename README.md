@@ -54,7 +54,7 @@
     Website
   </a>
       </p>
-        <p><strong> Javascript | CSS3 | HTML5 | Node.js</strong> - Rock Paper Scissors game against the random AI</p>
+        <p><strong> Javascript | CSS3 | HTML5 | Node.js</strong> - Group Project: Rock Paper Scissors game against the random AI</p>
     </td>
  </tr>
  <tr>
