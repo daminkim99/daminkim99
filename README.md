@@ -22,7 +22,7 @@
 <div align="center">
     <img width="360px" alt="GitHub Stats" height="180px" float="left" src="https://awesome-github-stats.azurewebsites.net/user-stats/daminkim99?theme=dark&cardType=github&ring=D4AF37&show_icons=true&preferLogin=true&title=D4AF37">
 
-    <img width="400px" alt="GitHub Streak" height="180px" float="right" src="https://github-readme-streak-stats.herokuapp.com/?user=daminkim99&theme=tokyonight">
+    <img width="400px" alt="GitHub Streak" height="180px" float="right" src="https://streak-stats.demolab.com/?user=daminkim99&theme=tokyonight&mode=weekly&date_format=M%20j[,%20Y]">
 </div>
 <br />
 <br />
