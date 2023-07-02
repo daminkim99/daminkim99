@@ -50,23 +50,23 @@
         <p><strong>JavaScript | Bootstrap | Node.js | Express.js | MongoDB | EJS </strong> - A Project built on MVC architecture that allows users to write their reviews and provide their analysis of the movies they watch!</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Rock Paper Scissor</h3>
+      <h3 align="center">KEA- Keep Eachother Accountable </h3>
         <br />
-      <a target="_blank" href="https://nice-erin-cormorant-sock.cyclic.app">
-             <img src="images/rps.png" width="100%" alt="main page"/>
+      <a target="_blank" href="">
+             <img src="" width="100%" alt="main page"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/daminkim99/rock-paper-scissor" target="_blank">
+  <a href="https://github.com/williamchun1999/kea" target="_blank">
     REPO(Github)
   </a>
       <span>| </span>
-  <a href="https://nice-erin-cormorant-sock.cyclic.app" target="_blank">
+  <a href="" target="_blank">
     Website
   </a>
       </p>
-        <p><strong> Javascript | CSS3 | HTML5 | Node.js</strong> - Group Project: Rock Paper Scissors game against the random AI</p>
+        <p><strong> React | JavaScript | Tailwind CSS | TypeScript | Node.js </strong> - Group Project: A todo full stack MERN app with added functionality of keeping not only oneself but other people accountable. </p>
     </td>
  </tr>
  <tr>
