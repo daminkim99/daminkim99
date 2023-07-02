@@ -85,5 +85,23 @@
       </p>
         <p><strong>  HTML5 | CSS3  </strong> - Static Website for lash lifting </p>
     </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Rock Paper Scissor</h3>
+        <br />
+      <a target="_blank" href="https://nice-erin-cormorant-sock.cyclic.app">
+             <img src="images/rps.png" width="100%" alt="main page"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/daminkim99/rock-paper-scissor" target="_blank">
+    REPO(Github)
+  </a>
+      <span>| </span>
+  <a href="https://nice-erin-cormorant-sock.cyclic.app" target="_blank">
+    Website
+  </a>
+      </p>
+        <p><strong> Javascript | CSS3 | HTML5 | Node.js</strong> - Group Project: Rock Paper Scissors game against the random AI</p>
   </tr>
    
