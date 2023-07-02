@@ -3,7 +3,7 @@
 
 <p align="left"> Creative and detail oriented, I have a deep interest in marketing and health technology! I like to help business owners and build projects that bring value and makes tasks more efficient :) </p>
 
-- 🌱 I’m currently learning **Node.js , MongoDB**
+- 🌱 I’m currently learning **TypeScript, React**
 
 - 📫 How to reach me **elenanana0903@gmail.com**
 - 👨‍💻 All of my projects are available at [https://elenanana.netlify.app](https://elenanana.netlify.app)
