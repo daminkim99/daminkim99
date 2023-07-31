@@ -52,7 +52,7 @@
     <td width="50%" valign="top">
       <h3 align="center">KEA- Keep Eachother Accountable </h3>
         <br />
-      <a target="_blank" href="">
+      <a target="_blank" href="https://jade-courageous-perch.cyclic.app/">
              <img src="" width="100%" alt="main page"/>
         </a>
         <br />
@@ -62,7 +62,7 @@
     REPO(Github)
   </a>
       <span>| </span>
-  <a href="" target="_blank">
+  <a href="https://jade-courageous-perch.cyclic.app/" target="_blank">
     Website
   </a>
       </p>
