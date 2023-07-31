@@ -53,7 +53,7 @@
       <h3 align="center">KEA- Keep Eachother Accountable </h3>
         <br />
       <a target="_blank" href="https://jade-courageous-perch.cyclic.app/">
-             <img src="" width="100%" alt="main page"/>
+             <img src="images/KEA.gif" width="100%" alt="main page"/>
         </a>
         <br />
         <p align="center">
